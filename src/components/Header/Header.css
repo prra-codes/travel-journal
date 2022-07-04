@@ -1,0 +1,16 @@
+.nav {
+  background-color: #f55a5a;
+  padding: 16px 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 45px;
+}
+
+.earth-and-title {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 500;
+  width: 27%;
+  color: white;
+}
