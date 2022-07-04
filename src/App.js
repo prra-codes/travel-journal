@@ -7,7 +7,7 @@ import data from "./data.js";
 function App() {
   const allData = data.map((item) => {
     return <Card key={item.title} item={item} />;
-  }); //testing
+  });
 
   return (
     <div>
