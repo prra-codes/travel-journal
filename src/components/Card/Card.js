@@ -28,7 +28,6 @@ const Card = ({ item }) => {
           <p className="main-text text">{item.description}</p>
         </div>
       </div>
-      {/* <div className="border"></div> */}
     </div>
   );
 };
