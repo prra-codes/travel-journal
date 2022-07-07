@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travel-journal/static/css/main.5aeac7cd.css",
+    "main.js": "/travel-journal/static/js/main.da98a29b.js",
+    "static/js/787.39019643.chunk.js": "/travel-journal/static/js/787.39019643.chunk.js",
+    "static/media/golden-pavilion.jpg": "/travel-journal/static/media/golden-pavilion.297fe68821ff2b0c6e4c.jpg",
+    "static/media/tokyo-tower.jpg": "/travel-journal/static/media/tokyo-tower.783b9e9038323d6e7d8b.jpg",
+    "static/media/hachiko-dog-statue.jpg": "/travel-journal/static/media/hachiko-dog-statue.66d94129dd874d045ae0.jpg",
+    "static/media/logo.svg": "/travel-journal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/earth.svg": "/travel-journal/static/media/earth.10ddb4ca94ecf3a9f9b4a03e41ebeb6e.svg",
+    "index.html": "/travel-journal/index.html",
+    "static/media/red-icon.svg": "/travel-journal/static/media/red-icon.1f226562855444fb8b7486883ccc7a0c.svg",
+    "main.5aeac7cd.css.map": "/travel-journal/static/css/main.5aeac7cd.css.map",
+    "main.da98a29b.js.map": "/travel-journal/static/js/main.da98a29b.js.map",
+    "787.39019643.chunk.js.map": "/travel-journal/static/js/787.39019643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aeac7cd.css",
+    "static/js/main.da98a29b.js"
+  ]
+}
