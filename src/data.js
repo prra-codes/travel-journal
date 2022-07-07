@@ -1,34 +1,36 @@
+import tokyoTower from "./images/tokyo-tower.jpg";
+import goldenPavilion from "./images/golden-pavilion.jpg";
+import hachikoDogStatue from "./images/hachiko-dog-statue.jpg";
+
 export default [
   {
-    title: "Mount Fuji",
-    location: "Japan",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-    startDate: "12 Jan, 2021",
-    endDate: "24 Jan, 2021",
+    title: "Tokyo Tower",
+    location: "Tokyo, Japan",
+    googleMapsUrl: "https://goo.gl/maps/82mBDtRCa45dyWDBA",
+    startDate: "01 Oct, 2018",
+    endDate: "14 Oct, 2018",
     description:
-      "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-    imageUrl: "https://source.unsplash.com/WLxQvbMyfas",
+      "Tokyo Tower is a famous landmark within Japan inspired by the Eiffel Tower. At 332.9 meters (1,092 ft), it is the second-tallest structure in Japan.",
+    imageUrl: tokyoTower,
   },
   {
-    title: "Sydney Opera House",
-    location: "Australia",
-    googleMapsUrl:
-      "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567844,151.213108,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967",
-    startDate: "27 May, 2021",
-    endDate: "08 Jun, 2021",
-    description:
-      "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.",
-    imageUrl: "https://source.unsplash.com/JmuyB_LibRo",
+    title: "Golden Pavilion",
+    location: "Kyoto, Japan",
+    googleMapsUrl: "https://goo.gl/maps/zr4ghkCeh13q3pLd8",
+    startDate: "01 Oct, 2018",
+    endDate: "14 Oct, 2018",
+    description: `The Golden Pavilion, which is called Kinkaku-ji ("Temple of the Golden Pavilion") in Japan, is a Zen Buddhist temple in Kyoto, Japan. It is one of the most popular building in Kyoto, whic attracts many visitors each year.`,
+
+    imageUrl: goldenPavilion,
   },
   {
-    title: "Geirangerfjord",
-    location: "Norway",
-    googleMapsUrl:
-      "https://www.google.com/maps/place/Geirangerfjord/@62.1048147,6.9206487,10.65z/data=!4m5!3m4!1s0x46169d427b268c51:0xb8c99540dcc397fe!8m2!3d62.101506!4d7.0940817",
+    title: "Hachiko Dog Statue",
+    location: "Tokyo, Japan",
+    googleMapsUrl: "https://goo.gl/maps/95M5Mn8ZmeqxUbEXA",
     startDate: "01 Oct, 2021",
-    endDate: "18 Nov, 2021",
+    endDate: "14 Oct, 2018",
     description:
-      "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
-    imageUrl: "https://source.unsplash.com/3PeSjpLVtLg",
+      "One of Japan's unofficial landmarks, the Hachik statue in Shibuya, Tokyo is a homage to the faithful Akita who waited at Shibuya Station every day for his master, even after his death. Today, it is one of the most popular meeting places in Tokyo.",
+    imageUrl: hachikoDogStatue,
   },
 ];

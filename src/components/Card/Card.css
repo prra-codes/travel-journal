@@ -17,8 +17,11 @@
 }
 
 .image-size {
-  width: 25%;
-  max-width: 140px;
+  /* width: 25%; */
+  width: 100%;
+  /* max-width: 140px; */
+  max-width: 160px;
+  margin-right: 10px;
 }
 
 .info-size {
