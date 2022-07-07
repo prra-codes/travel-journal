@@ -7,7 +7,7 @@ const Header = () => {
     <div className="nav">
       {/* <div> */}
       <div className="earth-and-title">
-        <img src={earth} alt="earth-icon" />
+        <img src={earth} alt="earth-icon" className="earth-spacing" />
         <p>my travel journal.</p>
       </div>
       {/* </div> */}
